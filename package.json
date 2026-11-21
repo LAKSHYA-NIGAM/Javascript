@@ -1,0 +1,11 @@
+{
+  "name": "javascript-interactive-dom",
+  "version": "1.0.0",
+  "description": "Interactive DOM manipulation card widget with state machine",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/card-widget.test.mjs"
+  },
+  "author": "Lakshya Nigam <lakshyanigam20@gmail.com>",
+  "license": "MIT"
+}
